@@ -9,4 +9,5 @@ function MovieCard({ title, id }) {
   );
 }
 
+
 export default MovieCard;
